@@ -1,0 +1,16 @@
+{
+    "keys": [
+        {
+            "kty": "RSA",
+            "e": "AQAB",
+            "use": "sig",
+            "kid": "deepscribe-ecw-app",
+            "alg": "RS384",
+            "key_ops": [
+                "verify"
+            ],
+            "ext": true,
+            "n": "k4zQIWzF2Vm03h6sl-APfj2NLRm7A8DB-7km3msjdj5C_JK1syd8Wewx6eWCO7Ds4i6HtrbX40kq1oVx0X-cPW-PbBMgrThwG4Y3bBlzhiFYYoz7k2bQerMBc1aKjShSqsoByuBfeMn2bUKuFTGcGxCd1NqgLbkX2f5I9V85lBmQVN_kkW7r9lCn0i6CLP5IjqInygUAUj7A2QlVDMJFWbD-g218WFPgTC4mKHpyzq0OGghe37_jVCqD_00a-HJ_4EqP7lVk7bDqzGcBF_RoLL9sfMU4Zjv6RoAdvnJOkPXwr7RQObZNFzj7GPS30z8pc1Ifs49Drgukkxb4vWf-jw"
+        }
+    ]
+}
